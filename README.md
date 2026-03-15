@@ -87,8 +87,8 @@ Output integrity check (canary tokens, score anomaly detection)
 ### 1. Fork or clone this repository
 
 ```bash
-git clone https://github.com/your-org/llm-pr-reviewer.git
-cd llm-pr-reviewer
+git clone https://github.com/ashwathraghavs/LLM-PR-Reviewer.git
+cd LLM-PR-Reviewer
 ```
 
 ### 2. Add your Anthropic API key as a GitHub secret
