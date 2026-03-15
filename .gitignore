@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+
+# Databases — these contain spend and audit data, never commit them
+spend.db
+review_audit.db
+
+# Environment — never commit API keys
+.env
+.env.*
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor
+.vscode/
+.idea/
+*.swp
